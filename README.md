@@ -2,7 +2,7 @@
 This a GitHub basic tutorial for Git and GitHub, includes a step by step tutorial for a tiny project: A Javascript Calculator 
 
 ## Tutorial content
-1. [Create a Repository]()
+1. [Create a Repository](https://github.com/gangya/mathematicsCF/blob/main/01-create-repository.md)
 2. [Clone the Repository and open in VS Code]()
 3. [Create a Branch to add the calculator code-file]()
 4. [Make a basic Pull Request]()
