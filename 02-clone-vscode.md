@@ -15,7 +15,7 @@
     touch basiCalculator.js
     ```
 
-    or
+    or 
 
     ```bash
     vim basiCalculator.js
