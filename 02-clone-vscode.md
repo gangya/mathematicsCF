@@ -8,4 +8,3 @@
 git clone `YOUR_REPO_URL`
 cd `YOUR_LOCAL_REPO_DIRECTORY`
 ```
-
