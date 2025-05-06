@@ -30,7 +30,7 @@
 
 6. Confirm changes:
 
-    ````bash
+    ```bash
     git push origin main
     ```
 
