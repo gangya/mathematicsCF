@@ -7,4 +7,4 @@
 5. Optional: Add a `README` file and/or `Choose a license`.
 6. Click on `Create repository`.
 
-[Next step: Clone repository and open it in VS Code »](https://github.com/gangya/mathematicsCF/blob/main/02-clone-vscode.md)
+[Previous step](https://github.com/gangya/mathematicsCF/blob/main/README.md) | [Next step: Clone repository and open it in VS Code »](https://github.com/gangya/mathematicsCF/blob/main/02-clone-vscode.md)

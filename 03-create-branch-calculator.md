@@ -32,10 +32,10 @@
 
 3. Adding file to `git`, commit and confirm changes:
 
-```bash
-git add basicCalculator.js
-git commit -m "Adding operations (addition and substraction) to basicCalculator.js file"
-git push origin main
-```
+    ```bash
+    git add basicCalculator.js
+    git commit -m "Adding operations (addition and substraction) to basicCalculator.js file"
+    git push origin main
+    ```
 
-[Previous step](https://github.com/gangya/mathematicsCF/blob/main/02-clone-vscode.md)  | [Next step: Basic pull request »]()
+[Previous step](https://github.com/gangya/mathematicsCF/blob/main/02-clone-vscode.md)  | [Next step: Basic pull request »](https://github.com/gangya/mathematicsCF/blob/main/04-basic-pull-request.md)
