@@ -16,9 +16,9 @@
     git checkout basic-calculator
     ```
 
-2. Open, create or modify basicCalculator.js file adding the follwig code:
+2. Open, create or modify basicCalculator.js file adding the following code:
 
-    ```bash
+    ```javascript
     // This function adds two numbers
     function addition(a, b) {
     return a + b;

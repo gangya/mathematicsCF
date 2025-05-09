@@ -6,4 +6,4 @@
 4. Click on `Create pull request`.
 5. Approve and `Merge`.
 
-[Previous step](https://github.com/gangya/mathematicsCF/blob/main/03-create-branch-calculator.md)  | [Next step: Create an Issue »]()
+[Previous step](https://github.com/gangya/mathematicsCF/blob/main/03-create-branch-calculator.md)  | [Next step: Create an issue »]()
