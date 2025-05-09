@@ -7,3 +7,14 @@ function addition(a, b) {
 function subtraction(a, b) {
   return a - b;
 }
+
+// This function multiplies two numbers
+function multiplication(a, b) {
+return a * b;
+}
+
+// This function divides two numbers
+function division(a, b) {
+if (b === 0) throw new Error("Zero division");
+return a / b;
+}
