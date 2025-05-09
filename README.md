@@ -7,7 +7,7 @@ This a GitHub basic tutorial for Git and GitHub, includes a step by step tutoria
 3. [Create a Branch to add the calculator code-file](https://github.com/gangya/mathematicsCF/blob/main/03-create-branch-calculator.md)
 4. [Make a basic Pull Request](https://github.com/gangya/mathematicsCF/blob/main/04-basic-pull-request.md)
 5. [Create and Assing Issues](https://github.com/gangya/mathematicsCF/blob/main/05-create-issue.md)
-6. [Resolve Issue on a new Branch](https://github.com/gangya/mathematicsCF/blob/main/06-issue-branch)
+6. [Resolve Issue on a new Branch](https://github.com/gangya/mathematicsCF/blob/main/06-issue-branch.md)
 7. [Create a detailed README of project]()
 8. [Open a Discussion]()
 
