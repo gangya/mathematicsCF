@@ -8,4 +8,4 @@
     - Description: Explain Calculator needs to provide those operations
 4. Assign Issue
 
-[Previous step](https://github.com/gangya/mathematicsCF/blob/main/04-basic-pull-request.md)  | [Next step:Solve issue in a new branch »]()
+[Previous step](https://github.com/gangya/mathematicsCF/blob/main/04-basic-pull-request.md)  | [Next step:Solve issue in a new branch »](https://github.com/gangya/mathematicsCF/blob/main/06-issue-branch)
