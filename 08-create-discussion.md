@@ -8,4 +8,4 @@
 
 4. Select `Ideas`, clicking on `get started`, then edit the template to align with the resources and tone you want to set for your community. Click `Start discussion`
 
-[Previous step](https://github.com/gangya/mathematicsCF/blob/main/07-detailed-readme.md)  | [Next step: Create a discussion »](https://github.com/gangya/mathematicsCF/blob/main/README.md)
+[Previous step](https://github.com/gangya/mathematicsCF/blob/main/07-detailed-readme.md)  | [Next step: Back to Init »](https://github.com/gangya/mathematicsCF/blob/main/README.md)
