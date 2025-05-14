@@ -33,7 +33,7 @@
 
 4. Save basiCalculator.js file, add to stage then commit
 
-    ````bash
+    ```bash
     git add basiCalculator.js
     git commit -m "Adding operations (multiplication and division) to basicCalculator.js file"
     ```
@@ -42,4 +42,4 @@
 
 6. Accept `Pull request`, this closes issue automatically.
 
-[Previous step](https://github.com/gangya/mathematicsCF/blob/main/05-create-issue.md)  | [Next step: Create a detailed Readme »]()
+[Previous step](https://github.com/gangya/mathematicsCF/blob/main/05-create-issue.md)  | [Next step: Create a detailed Readme »](https://github.com/gangya/mathematicsCF/blob/main/07-detailed-readme.md)
